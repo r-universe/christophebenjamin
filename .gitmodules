@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "aptg"]
 	path = aptg
-	url = https://github.com/cran/aptg
+	url = https://github.com/christophebenjamin/aptg
